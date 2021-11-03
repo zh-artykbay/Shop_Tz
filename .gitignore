@@ -5,6 +5,8 @@
 .gitignore
 .idea/.gitignore
 .idea/*
+.idea/
+
 .idea/vcs.xml
 
 
